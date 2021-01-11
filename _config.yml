@@ -10,6 +10,6 @@ github_username:  arinethu
 sass:
   sass_dir: _sass
 
-icon: ./assets/img/download20201200121743.png
+icon: ./assets/img/gwicon.jpg
 
 theme: jekyll-theme-cayman
